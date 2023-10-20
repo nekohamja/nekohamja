@@ -95,5 +95,26 @@
                 alt="Jupyter Notebook"/>
             <br /><strong>Jupyter</strong>
         </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" 
+                width="48"
+                height="48"
+                alt="Pytorch"/>
+            <br /><strong>Pytorch</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
+                width="48"
+                height="48"
+                alt="Numpy"/>
+            <br /><strong>Numpy</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+                width="48"
+                height="48"
+                alt="Ubuntu"/>
+            <br /><strong>Ubuntu</strong>
+        </td>
     </tr>
 </table>
