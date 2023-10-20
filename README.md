@@ -1,8 +1,8 @@
 ### 👋 Hi there! 
 <div align="left">
-    I'm Nicco Van Hamja who's an aspiring Software Engineer. I'm currently in the path of learning web development and I love tinkering with JavaScript technologies. 
+    I'm Nicco and I am an aspiring Software Engineer. I'm currently in the path of learning web development and I love tinkering with JavaScript technologies. 
     I'm always passionate about exploring new technologies to solve various real-life problems.<br><br>
-    I also do Illustration, UI/UX Design on the side and have previous experiences in using machine learning tools, such as Python and Jupyter Notebook.
+    I also do Illustration & UI/UX Design on the side and have previous experiences in using machine learning tools, such as Python and Jupyter Notebook.
 
     
 </div>
