@@ -1,5 +1,4 @@
 ### 👋 Hi there! 
-
 <div align="justify">
     I'm Nicco Van Hamja who's an aspiring Software Engineer who loves tinkering with JavaScript technologies. I'm currently in the path of learning web development and I'm always passionate about exploring new technologies to solve various real-life problems.
 </div>
@@ -52,6 +51,36 @@
             <br /><strong>ESLint</strong>
         </td>
         <td align="center" height="108" width="108"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" 
+                width="48"
+                height="48"
+                alt="Chrome Devtools"/>
+            <br /><strong>Devtools</strong>
+        </td>
+        <td align="center" height="108" width="108"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+                width="48"
+                height="48"
+                alt="Git"/>
+            <br /><strong>Git</strong>
+        </td>
+        <td align="center" height="108" width="108"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" 
+                width="48"
+                height="48"
+                alt="Ionic Framework"/>
+            <br /><strong>Ionic</strong>
+        </td>
+        <td align="center" height="108" width="108"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
+                width="48"
+                height="48"
+                alt="Node Package Manager"/>
+            <br /><strong>npm</strong>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" height="108" width="108"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
                 width="48"
                 height="48"
@@ -60,15 +89,11 @@
             <br /><strong>Python</strong>
         </td>
         <td align="center" height="108" width="108"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
                 width="48"
                 height="48"
-                alt="Chrome Devtools"/>
-            <br /><strong>Devtools</strong>
-        </td>
-        <td align="center" height="108" width="108"> 
-        </td>
-        <td align="center" height="108" width="108"> 
+                alt="Jupyter Notebook"/>
+            <br /><strong>Jupyter</strong>
         </td>
     </tr>
 </table>
