@@ -46,6 +46,14 @@
                 />
             <br /><strong>Webpack</strong>
         </td>
+        <td align="center" height="108" width="108"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+                width="48"
+                height="48"
+                alt="Sass"
+                />
+            <br /><strong>Sass</strong>
+        </td>
          <td align="center" height="108" width="108"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" 
                 width="48"
@@ -68,6 +76,8 @@
                 alt="Git"/>
             <br /><strong>Git</strong>
         </td>
+     </tr>
+    <tr>
         <td align="center" height="108" width="108"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" 
                 width="48"
@@ -82,8 +92,6 @@
                 alt="Node Package Manager"/>
             <br /><strong>npm</strong>
         </td>
-    </tr>
-    <tr>
         <td align="center" height="108" width="108"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
                 width="48"
