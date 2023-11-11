@@ -1,14 +1,10 @@
 ### 👋 Hi there! 
 <div align="left">
-    I'm Nicco and I am an aspiring Software Engineer. I'm currently in the path of learning web development and I love tinkering with JavaScript technologies. 
-    I'm always passionate about exploring new technologies to solve various real-life problems.<br><br>
-    I also do Illustration & UI/UX Design on the side and have previous experiences in using machine learning tools, such as Python and Jupyter Notebook.
-
-    
+    I'm Nicco and I am an aspiring Full stack Frontend + designer. I'm currently in the path of learning web development and I love tinkering with JavaScript technologies. 
+    I'm always passionate about exploring new technologies to create amazing visuals on sites and make user experience functional and convenient.<br><br>
 </div>
 
 ### 🔧 Tech Stack 
-
 <table>
     <tr>
         <td align="center" height="108" width="108">
@@ -93,33 +89,50 @@
                 />
             <br /><strong>Python</strong>
         </td>
-        <td align="center" height="108" width="108"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
-                width="48"
-                height="48"
-                alt="Jupyter Notebook"/>
-            <br /><strong>Jupyter</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" 
-                width="48"
-                height="48"
-                alt="Pytorch"/>
-            <br /><strong>Pytorch</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
-                width="48"
-                height="48"
-                alt="Numpy"/>
-            <br /><strong>Numpy</strong>
-        </td>
         <td align="center" height="108" width="108">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
                 width="48"
                 height="48"
                 alt="Ubuntu"/>
             <br /><strong>Ubuntu</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+                width="48"
+                height="48"
+                alt="Figma"/>
+            <br /><strong>Figma</strong>
+        </td>
+        <td align="center" height="108" width="108">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
+                width="48"
+                height="48"
+                alt="Photoshop"/>
+            <br /><strong>Photoshop</strong>
+        </td>
+    </tr>
+</table>
+
+### 🤓 Currently Learning
+
+<table>
+    <tr>
+        <td align="center" height="108" width="108">        
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
+                width="48"
+                height="48"
+                alt="three.js"/>
+            <br /><strong>three.js</strong>
+        </td>
+        <td align="center" height="108" width="108">    
+            <br /><strong>Lottie</strong>
+        </td>
+        <td align="center" height="108" width="108">        
+            <img src="https://www.cdnlogo.com/logos/g/31/gsap-greensock.svg"
+                width="48"
+                height="48"
+                alt="GSAP"/>
+            <br /><strong>GSAP</strong>
         </td>
     </tr>
 </table>
