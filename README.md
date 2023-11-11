@@ -1,7 +1,7 @@
 ### 👋 Hi there! 
 <div align="left">
     I'm Nicco and I am an aspiring Full stack Frontend + designer. I'm currently in the path of learning web development and I love tinkering with JavaScript technologies. 
-    I'm always passionate about exploring new technologies to create amazing visuals on sites and make user experience functional and convenient.<br><br>
+    I'm always passionate about exploring new technologies to create amazing visuals on sites while making user experience functional and convenient.<br><br>
 </div>
 
 ### 🔧 Tech Stack 
@@ -110,6 +110,13 @@
                 alt="Photoshop"/>
             <br /><strong>Photoshop</strong>
         </td>
+        <td align="center" height="108" width="108">        
+            <img src="https://www.cdnlogo.com/logos/g/31/gsap-greensock.svg"
+                width="48"
+                height="48"
+                alt="GSAP"/>
+            <br /><strong>GSAP</strong>
+        </td>
     </tr>
 </table>
 
@@ -125,14 +132,11 @@
             <br /><strong>three.js</strong>
         </td>
         <td align="center" height="108" width="108">    
-            <br /><strong>Lottie</strong>
-        </td>
-        <td align="center" height="108" width="108">        
-            <img src="https://www.cdnlogo.com/logos/g/31/gsap-greensock.svg"
+            <img src="./lottiefiles-logo.svg"
                 width="48"
                 height="48"
-                alt="GSAP"/>
-            <br /><strong>GSAP</strong>
+                alt="Lottie"/>
+            <br /><strong>Lottie</strong>
         </td>
     </tr>
 </table>
