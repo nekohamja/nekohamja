@@ -1,6 +1,6 @@
 ### 👋 Hi there! 
 <div align="left">
-    I'm Nicco, a Graphic Designer with a background in Computer Science. Although I do design most of the time, I love tinkering with Web development technologies such as Javascript. 
+    I'm Nicco, a Graphic Designer & Illustrator with a background in Computer Science. Although I do design most of the time, I love tinkering with Web development technologies such as Javascript. 
     I'm always passionate about exploring new technologies to create amazing visuals on sites while making user experience functional and convenient.<br><br>
 </div>
 
